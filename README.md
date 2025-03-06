@@ -1,2 +1,3 @@
 # Agritech-Pest-Prediction
-Agritech Pest Prediction By Regression And Classification
+2. Regression And Classification methods for Agritech Pest Prediction.
+1. Time Series Analysis
